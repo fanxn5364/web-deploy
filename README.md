@@ -64,3 +64,5 @@ Command Description
 - npm run build Create production build
 - npm run preview Preview production build locally
 - firebase deploy Deploy to Firebase Hosting
+
+**สร้างหน้าแรกสำหรับการแสดงเมนูสื่อการสอนในรายวิชา MIIC1325 เรื่องแรกได้แก่ Could computing, Virtualization and Could computing, VPN Technology, Docker and Container, Active directory, การจัดทำมาตรฐานด้านความปลอดภัยสารสนเทศ (ISO 27001), พรบ.คุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562, Type of data center**
